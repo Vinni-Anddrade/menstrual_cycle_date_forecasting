@@ -19,4 +19,5 @@ dependencies = [
     "python-dotenv==1.2.2",
     "langchain-community==0.4.2",
     "langchain-ollama==1.1.0",
+    "xgboost==3.3.0"
 ]
